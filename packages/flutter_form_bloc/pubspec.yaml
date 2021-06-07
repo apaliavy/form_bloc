@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/apaliavy/form_bloc.git
       path: packages/form_bloc
-  rxdart: ^0.24.0
+  rxdart: ^0.25.0
   flutter_keyboard_visibility: ^3.0.0
   collection: ^1.14.11
   intl: ">=0.15.1 <0.17.1"
